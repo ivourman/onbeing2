@@ -1,0 +1,112 @@
+,collector_name,Age,n,proportion_per_collector_values,n_total,as.factor.collector_name.
+1,OBP_IG_AD_Collector,35-44,479,0.444341373,1078,OBP_IG_AD_Collector
+2,OBP_FB_AD_Collector,35-44,279,0.410294118,680,OBP_FB_AD_Collector
+3,Partners-Flex Copy collector 1,35-44,24,0.380952381,63,Partners-Flex Copy collector 1
+4,OBP_ Event Follow-UpCollector,65-74,499,0.360809834,1383,OBP_ Event Follow-UpCollector
+5,App Users and members Collector 1,65-74,138,0.357512953,386,App Users and members Collector 1
+6,OBP_FB_AD_Collector,45-54,234,0.344117647,680,OBP_FB_AD_Collector
+7,OBP_PAUSE1_Collector,65-74,357,0.340648855,1048,OBP_PAUSE1_Collector
+8,OBP_ Announcement Collector,65-74,482,0.308776425,1561,OBP_ Announcement Collector
+9,App Users and members Collector 1,55-64,114,0.295336788,386,App Users and members Collector 1
+10,OBP_TW_Collector,55-64,30,0.280373832,107,OBP_TW_Collector
+11,OBP_ Linktree Collector,35-44,214,0.269521411,794,OBP_ Linktree Collector
+12,OBP_FB_Collector,65-74,63,0.259259259,243,OBP_FB_Collector
+13,OBP_IG_Story_Collector,25-34,22,0.258823529,85,OBP_IG_Story_Collector
+14,OBP_ Event Follow-UpCollector,55-64,347,0.250903832,1383,OBP_ Event Follow-UpCollector
+15,OBP_ Announcement Collector,55-64,389,0.249199231,1561,OBP_ Announcement Collector
+16,OBP_IG_AD_Collector,45-54,258,0.239332096,1078,OBP_IG_AD_Collector
+17,OBP_PAUSE1_Collector,55-64,245,0.233778626,1048,OBP_PAUSE1_Collector
+18,OBP_FB_Collector,55-64,56,0.230452675,243,OBP_FB_Collector
+19,OBP_IG_AD_Collector,25-34,248,0.230055659,1078,OBP_IG_AD_Collector
+20,OBP_ Podcast and Radio,55-64,479,0.228530534,2096,OBP_ Podcast and Radio
+21,OBP_IG_Story_Collector,35-44,19,0.223529412,85,OBP_IG_Story_Collector
+22,OBP_ Podcast and Radio,65-74,462,0.220419847,2096,OBP_ Podcast and Radio
+23,OBP_FB_Collector,45-54,52,0.21399177,243,OBP_FB_Collector
+24,OBP_ Linktree Collector,45-54,159,0.200251889,794,OBP_ Linktree Collector
+25,OBP_IG_Story_Collector,55-64,17,0.2,85,OBP_IG_Story_Collector
+26,OBP_ Linktree Collector,25-34,153,0.192695214,794,OBP_ Linktree Collector
+27,Partners-Flex Copy collector 1,25-34,12,0.19047619,63,Partners-Flex Copy collector 1
+28,Partners-Flex Copy collector 1,55-64,12,0.19047619,63,Partners-Flex Copy collector 1
+29,OBP_TW_Collector,45-54,19,0.177570093,107,OBP_TW_Collector
+30,OBP_ Linktree Collector,55-64,138,0.173803526,794,OBP_ Linktree Collector
+31,OBP_ Podcast and Radio,35-44,331,0.157919847,2096,OBP_ Podcast and Radio
+32,OBP_FB_Collector,35-44,38,0.156378601,243,OBP_FB_Collector
+33,OBP_ Event Follow-UpCollector,75-84,210,0.151843818,1383,OBP_ Event Follow-UpCollector
+34,OBP_ Podcast and Radio,45-54,310,0.147900763,2096,OBP_ Podcast and Radio
+35,Partners-Flex Copy collector 1,45-54,9,0.142857143,63,Partners-Flex Copy collector 1
+36,OBP_PAUSE1_Collector,75-84,149,0.142175573,1048,OBP_PAUSE1_Collector
+37,OBP_IG_Story_Collector,45-54,12,0.141176471,85,OBP_IG_Story_Collector
+38,OBP_TW_Collector,25-34,15,0.140186916,107,OBP_TW_Collector
+39,OBP_TW_Collector,35-44,15,0.140186916,107,OBP_TW_Collector
+40,OBP_TW_Collector,65-74,14,0.130841121,107,OBP_TW_Collector
+41,OBP_ Announcement Collector,45-54,204,0.130685458,1561,OBP_ Announcement Collector
+42,App Users and members Collector 1,75-84,50,0.129533679,386,App Users and members Collector 1
+43,OBP_FB_AD_Collector,25-34,84,0.123529412,680,OBP_FB_AD_Collector
+44,OBP_ Announcement Collector,75-84,186,0.119154388,1561,OBP_ Announcement Collector
+45,OBP_PAUSE1_Collector,45-54,121,0.115458015,1048,OBP_PAUSE1_Collector
+46,OBP_ Podcast and Radio,25-34,230,0.109732824,2096,OBP_ Podcast and Radio
+47,OBP_ Linktree Collector,65-74,77,0.09697733,794,OBP_ Linktree Collector
+48,OBP_ Event Follow-UpCollector,45-54,134,0.096890817,1383,OBP_ Event Follow-UpCollector
+49,App Users and members Collector 1,45-54,37,0.095854922,386,App Users and members Collector 1
+50,OBP_ Announcement Collector,35-44,147,0.094170404,1561,OBP_ Announcement Collector
+51,OBP_IG_Story_Collector,18-24,8,0.094117647,85,OBP_IG_Story_Collector
+52,OBP_ Podcast and Radio,75-84,192,0.091603053,2096,OBP_ Podcast and Radio
+53,OBP_FB_Collector,25-34,20,0.082304527,243,OBP_FB_Collector
+54,OBP_PAUSE1_Collector,35-44,81,0.077290076,1048,OBP_PAUSE1_Collector
+55,App Users and members Collector 1,35-44,29,0.075129534,386,App Users and members Collector 1
+56,OBP_ Event Follow-UpCollector,35-44,94,0.067968185,1383,OBP_ Event Follow-UpCollector
+57,OBP_FB_AD_Collector,55-64,46,0.067647059,680,OBP_FB_AD_Collector
+58,Partners-Flex Copy collector 1,65-74,4,0.063492063,63,Partners-Flex Copy collector 1
+59,OBP_ Announcement Collector,25-34,89,0.057014734,1561,OBP_ Announcement Collector
+60,OBP_TW_Collector,75-84,6,0.056074766,107,OBP_TW_Collector
+61,OBP_PAUSE1_Collector,25-34,58,0.055343511,1048,OBP_PAUSE1_Collector
+62,OBP_IG_Story_Collector,65-74,4,0.047058824,85,OBP_IG_Story_Collector
+63,OBP_TW_Collector,NA,5,0.046728972,107,OBP_TW_Collector
+64,OBP_ Event Follow-UpCollector,25-34,61,0.044107014,1383,OBP_ Event Follow-UpCollector
+65,OBP_ Linktree Collector,18-24,33,0.041561713,794,OBP_ Linktree Collector
+66,OBP_IG_AD_Collector,55-64,40,0.037105751,1078,OBP_IG_AD_Collector
+67,OBP_IG_Story_Collector,NA,3,0.035294118,85,OBP_IG_Story_Collector
+68,App Users and members Collector 1,25-34,13,0.033678756,386,App Users and members Collector 1
+69,OBP_FB_Collector,75-84,7,0.028806584,243,OBP_FB_Collector
+70,OBP_TW_Collector,18-24,3,0.028037383,107,OBP_TW_Collector
+71,OBP_PAUSE1_Collector,85-94,28,0.026717557,1048,OBP_PAUSE1_Collector
+72,OBP_ Podcast and Radio,18-24,46,0.021946565,2096,OBP_ Podcast and Radio
+73,OBP_FB_Collector,NA,5,0.020576132,243,OBP_FB_Collector
+74,OBP_IG_AD_Collector,18-24,21,0.019480519,1078,OBP_IG_AD_Collector
+75,OBP_FB_AD_Collector,18-24,12,0.017647059,680,OBP_FB_AD_Collector
+76,OBP_ Announcement Collector,85-94,25,0.016015375,1561,OBP_ Announcement Collector
+77,Partners-Flex Copy collector 1,75-84,1,0.015873016,63,Partners-Flex Copy collector 1
+78,Partners-Flex Copy collector 1,NA,1,0.015873016,63,Partners-Flex Copy collector 1
+79,OBP_IG_AD_Collector,NA,17,0.015769944,1078,OBP_IG_AD_Collector
+80,OBP_ Announcement Collector,18-24,23,0.014734145,1561,OBP_ Announcement Collector
+81,OBP_FB_AD_Collector,NA,10,0.014705882,680,OBP_FB_AD_Collector
+82,OBP_FB_AD_Collector,65-74,9,0.013235294,680,OBP_FB_AD_Collector
+83,OBP_ Podcast and Radio,85-94,27,0.012881679,2096,OBP_ Podcast and Radio
+84,OBP_ Linktree Collector,NA,10,0.012594458,794,OBP_ Linktree Collector
+85,OBP_IG_AD_Collector,65-74,13,0.012059369,1078,OBP_IG_AD_Collector
+86,OBP_ Event Follow-UpCollector,85-94,16,0.011569053,1383,OBP_ Event Follow-UpCollector
+87,OBP_ Linktree Collector,75-84,9,0.011335013,794,OBP_ Linktree Collector
+88,OBP_ Announcement Collector,NA,13,0.008327995,1561,OBP_ Announcement Collector
+89,App Users and members Collector 1,NA,3,0.007772021,386,App Users and members Collector 1
+90,OBP_FB_AD_Collector,75-84,5,0.007352941,680,OBP_FB_AD_Collector
+91,OBP_ Podcast and Radio,NA,14,0.006679389,2096,OBP_ Podcast and Radio
+92,App Users and members Collector 1,85-94,2,0.005181347,386,App Users and members Collector 1
+93,OBP_ Event Follow-UpCollector,18-24,7,0.005061461,1383,OBP_ Event Follow-UpCollector
+94,OBP_ Event Follow-UpCollector,NA,7,0.005061461,1383,OBP_ Event Follow-UpCollector
+95,OBP_PAUSE1_Collector,NA,5,0.004770992,1048,OBP_PAUSE1_Collector
+96,OBP_ Event Follow-UpCollector,Prefer not to say ,6,0.004338395,1383,OBP_ Event Follow-UpCollector
+97,OBP_FB_Collector,18-24,1,0.004115226,243,OBP_FB_Collector
+98,OBP_FB_Collector,85-94,1,0.004115226,243,OBP_FB_Collector
+99,OBP_PAUSE1_Collector,18-24,3,0.002862595,1048,OBP_PAUSE1_Collector
+100,OBP_FB_AD_Collector,105 or older,1,0.001470588,680,OBP_FB_AD_Collector
+101,OBP_ Podcast and Radio,95-104,3,0.001431298,2096,OBP_ Podcast and Radio
+102,OBP_ Linktree Collector,13-17,1,0.001259446,794,OBP_ Linktree Collector
+103,OBP_ Podcast and Radio,13-17,2,0.000954198,2096,OBP_ Podcast and Radio
+104,OBP_PAUSE1_Collector,95-104,1,0.000954198,1048,OBP_PAUSE1_Collector
+105,OBP_IG_AD_Collector,75-84,1,0.000927644,1078,OBP_IG_AD_Collector
+106,OBP_IG_AD_Collector,85-94,1,0.000927644,1078,OBP_IG_AD_Collector
+107,OBP_ Event Follow-UpCollector,95-104,1,0.000723066,1383,OBP_ Event Follow-UpCollector
+108,OBP_ Event Follow-UpCollector,105 or older,1,0.000723066,1383,OBP_ Event Follow-UpCollector
+109,OBP_ Announcement Collector,13-17,1,0.000640615,1561,OBP_ Announcement Collector
+110,OBP_ Announcement Collector,95-104,1,0.000640615,1561,OBP_ Announcement Collector
+111,OBP_ Announcement Collector,105 or older,1,0.000640615,1561,OBP_ Announcement Collector
